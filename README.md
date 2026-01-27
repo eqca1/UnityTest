@@ -1,7 +1,7 @@
 # UnityTest
 
 **Darāmo darbu saraksts:**
-- [ ] UI Button lietojums
+- [x] UI Button lietojums
 - [ ] UI Input field lietojums
 - [ ] UI Text lietojums
 - [ ] UI Image lietojums
