@@ -1,10 +1,10 @@
 # UnityTest
 
 **Darāmo darbu saraksts:**
-- [ ] UI Button lietojums
-- [ ] UI Input field lietojums
-- [ ] UI Text lietojums
-- [ ] UI Image lietojums
+- [x] UI Button lietojums
+- [x] UI Input field lietojums
+- [x] UI Text lietojums
+- [x] UI Image lietojums
 - [ ] UI radio button lietojums
 - [ ] UI Slider lietojums
 - [ ] Drag and drop funkcionalitāte
